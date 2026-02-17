@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "薄采ディスプレイ",
+  "base_artist": "トゲナシトゲアリ",
+  "createdAt": "2026-02-17T11:23:56.153362Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "薄采ディスプレイ",
+      "artist": "トゲナシトゲアリ",
+      "has_synced": false,
+      "path": "select/pl_01_薄采ディスプレイ_トゲナシトゲアリ.txt"
+    }
+  ]
+}
